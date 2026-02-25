@@ -30,7 +30,7 @@ from telegram.ext import (
     ContextTypes, filters
 )
 
-TOKEN = os.getenv("TELEGRAM_BOT_TOKEN", "YOUR_BOT_TOKEN_HERE")
+TOKEN = os.getenv("TELEGRAM_BOT_TOKEN", "8618218088:AAEiTFM9VEUnVHy1dF9PAcIoRzBtq9X8G4s")
 
 # ══════════════════════════════════════════
 # ROLES
